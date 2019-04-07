@@ -3,13 +3,13 @@ This repository contains the problems and solutions from some of the specializat
 
 ## Course 1: Algorithmic Toolbox
 ### Week 2
-* Efficient algorithm for Fibonacci Number
-* Last digit of a huge Fibonacci number
-* GCD
-* LCM
-* Fibonacci mod m
-* Last digit of Sum of Fibonacci Numbers
-* Last digit of Sum of Squares of Fibonacci Numbers
+* [Efficient algorithm for Fibonacci Number](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Fibonacci)
+* [Last digit of a huge Fibonacci number](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Last%20Digit%20of%20Fibonacci)
+* [GCD](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/GCD)
+* [LCM] (https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/LCM)
+* [Fibonacci mod M] (https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Fib_mod_m)
+* [Last digit of Sum of Fibonacci Numbers](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Last%20Digit%20of%20Sum%20of%20Fibonacci%20Numbers)
+* [Last digit of Sum of Squares of Fibonacci Numbers](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Last%20Digit%20of%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers)
 
 ### Week 3 (Greedy Algorithms)
 * Money Change
