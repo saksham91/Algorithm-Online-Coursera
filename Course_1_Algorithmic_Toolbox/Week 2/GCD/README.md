@@ -21,8 +21,10 @@ Input:
 ```28851538 1183019```
 Output:
 ```17657```
+
 ```28851538 = 17657 · 1634, 1183019 = 17657 · 67.```
 
 A simple fibonacci number solution will not work as the Fibonacci numbers grow exponentially fast.
+
 F<sub>200</sub> = 280 571 172 992 510 140 037 611 932 413 038 677 189 525.
 
