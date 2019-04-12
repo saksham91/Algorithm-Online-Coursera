@@ -12,8 +12,8 @@ This repository contains the problems and solutions from some of the specializat
 * [Last digit of Sum of Squares of Fibonacci Numbers](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%202/Last%20Digit%20of%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers)
 
 ### Week 3 (Greedy Algorithms)
-* Money Change
-* Maximum Value of The Loot
+* [Money Change](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%203/Maximum%20Change)
+* [Maximum Value of The Loot](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%203/Maximum%20Loot)
 * Car Fueling
 * Maximum Advertisement Revenue
 * Collecting Signatures
