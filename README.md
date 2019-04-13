@@ -15,7 +15,7 @@ This repository contains the problems and solutions from some of the specializat
 * [Money Change](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%203/Maximum%20Change)
 * [Maximum Value of The Loot](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%203/Maximum%20Loot)
 * Car Fueling
-* Maximum Advertisement Revenue
+* [Maximum Advertisement Revenue](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%203/Maximum%20Ad%20Revenue)
 * Collecting Signatures
 * Maximum Number of Prizes
 * Maximum Salary
