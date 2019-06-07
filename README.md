@@ -21,6 +21,9 @@ This repository contains the problems and solutions from some of the specializat
 * Maximum Salary
 
 ### Week 4 (Divide and Conquer)
+* [Binary Search](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%204/Binary%20Search)
+* [Majority Item](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%204/Majority%20Item)
+* [3 Way Quicksort](https://github.com/saksham91/Algorithm-Online-Coursera/tree/master/Course_1_Algorithmic_Toolbox/Week%204/Quicksort_3_Way)
 
 ### Week 5 (Dynamic Programming 1)
 
